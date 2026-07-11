@@ -1,16 +1,18 @@
-# 🔐 Random Password Generator
+# 🔐 Random Password Generator(easy-mode)
 
-A command-line Password Generator built with Python that creates strong and customizable passwords based on user preferences.
+A terminal-based Random Password Generator built with Python that creates secure and customizable passwords.
 
 ## Features
 
 - 🔢 Custom password length
-- 🔠 Uppercase letters
-- 🔡 Lowercase letters
-- 🔣 Numbers
-- ✨ Special characters
-- 🎲 Random password generation
-- ✅ Input validation
+- 🔠 Include uppercase letters
+- 🔡 Include lowercase letters
+- 🔢 Include numbers
+- 🔣 Include special characters
+- ✅ Input validation for all user inputs
+- 💪 Password strength checker (Strong / Moderate / Weak)
+- 📜 Password history (Current Session)
+- 🔄 Generate multiple passwords without restarting the program
 
 ## Technologies Used
 
@@ -18,6 +20,14 @@ A command-line Password Generator built with Python that creates strong and cust
 
 ## How to Run
 
+1. Clone the repository.
+2. Open the project in VS Code.
+3. Run:
+
 ```bash
-python PasswordGenerator.py
+python RandomPasswordGenerator.py
 ```
+
+## Author
+
+Harshal Govi
