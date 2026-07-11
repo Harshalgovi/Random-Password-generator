@@ -27,7 +27,3 @@ A terminal-based Random Password Generator built with Python that creates secure
 ```bash
 python RandomPasswordGenerator.py
 ```
-
-## Author
-
-Harshal Govi
